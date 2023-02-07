@@ -2,7 +2,7 @@
 
 This is a solution to the [Scrimba Tailwind CSS Course final assessment](https://scrimba.com/learn/tailwind/final-course-project-landing-page-cPJZqqC3). Goal of this project was to build a mobile-first webpage layout using Tailwind CSS and it's media classes. 
 
-Vercel Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Check it out live!](https://your-live-site-url.com)
 
 ## Table of contents
 
@@ -42,7 +42,7 @@ Mobile View
 
 ### Links
 
-- Vercel Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Vercel Live Site](https://your-live-site-url.com)
 
 ## My process
 
