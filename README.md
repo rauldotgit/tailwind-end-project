@@ -2,6 +2,8 @@
 
 This is a solution to the [Scrimba Tailwind CSS Course final assessment](https://scrimba.com/learn/tailwind/final-course-project-landing-page-cPJZqqC3). Goal of this project was to build a mobile-first webpage layout using Tailwind CSS and it's media classes. 
 
+Vercel Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 ## Table of contents
 
 - [Scrimba Tailwind CSS Course Final Project](#scrimba-tailwind-css-course-final-project)
@@ -32,12 +34,15 @@ What to expect from this solution:
 
 ### Screenshot
 
+Tablet View
 ![Tablet View](./public/screenshot_ipad_mini.png)
+
+Mobile View
 ![Mobile View](public/screenshot_iphone12_pro.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Vercel Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
